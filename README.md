@@ -16,7 +16,7 @@ Tecnologias Utilizadas
 
 Como Usar
 
-    1. Execute o script
+    1. Execute o script Main.py
 
 ![Menu Principal](readme\menu.png)
 
