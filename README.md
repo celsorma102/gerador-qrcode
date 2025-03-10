@@ -2,7 +2,7 @@
 
 Este é um aplicativo simples em Python para gerar QR Codes a partir de textos ou URLs. O objetivo principal deste projeto é servir como um exercício para treinar meus conhecimentos em Programação Orientada a Objetos (POO).
 
-![alt text](readme\PrimeiroPrograma.png)
+![alt text](readme/PrimeiroPrograma.png)
 
 Tecnologias Utilizadas
 
@@ -18,7 +18,7 @@ Como Usar
 
     1. Execute o script Main.py
 
-![Menu Principal](readme\menu.png)
+![Menu](readme/menu.png)
 
 
     2. Digite o texto ou URL que deseja converter para QR Code.
